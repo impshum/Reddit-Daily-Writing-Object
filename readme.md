@@ -9,6 +9,7 @@ A hacky script to post daily writing objects. Maybes even bananas!
 -   Install requirements `pip install -r requirements.txt`
 -   Create Reddit (script) app at <https://www.reddit.com/prefs/apps/> and get keys
 -   Edit conf.ini with your details and settings
+-   Edit selftext.md with your post texts
 -   Run it `python run.py`
 
 ### Notes
