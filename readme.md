@@ -14,5 +14,5 @@ A hacky script to post daily writing objects. Maybes even bananas!
 
 ### Notes
 
--   Test mode just runs through just over a month and does not post.
+-   Test mode just runs through over a month and does not post.
 -   I will not be held responsible for any bad things that might happen to you or your Reddit account whilst using this bot. Follow Reddiquette and stay safe.
